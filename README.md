@@ -1,4 +1,4 @@
-# Threejs-Beginner-part-3
+# Threejs-Beginner-part-2
 
 
 ## Helpful Resources
